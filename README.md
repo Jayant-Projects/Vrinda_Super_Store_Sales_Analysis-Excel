@@ -29,6 +29,8 @@ The Vrinda Store's 2022 Annual Sales Report aims to provide insights into the co
 7. **Channel Contribution:** Determined which sales channel contributed the most to total sales.
 8. **Highest Selling Category:** Identified the highest-selling product category.
 
+![Screenshot 2024-05-14 084120](https://github.com/Jayant-Projects/Vrinda_Super_Store_Sales_Analysis-Excel/assets/142287323/16a111fc-f483-4480-961d-22bce2d3bca0)
+
 ## Insights
 
 Based on the analysis, the following insights were gained:
