@@ -1,5 +1,8 @@
 # Vrinda Store 2022 Annual Sales Report
 
+![proj_4](https://github.com/user-attachments/assets/ee5847ac-3c9b-4a38-aef3-4a671f49d9bd)
+
+
 ## Introduction
 
 The Vrinda Store's 2022 Annual Sales Report aims to provide insights into the company's sales performance, customer behaviors, and order trends. The goal is to leverage this information to enhance sales by at least 5% in 2023. The report follows a structured procedure, including data cleaning, processing, analysis, and the creation of a dashboard to visualize the findings.
